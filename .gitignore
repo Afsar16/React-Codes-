@@ -1,0 +1,4 @@
+.DS_Store
+12MegaBlog/.env
+node_modules/
+**/node_modules/
